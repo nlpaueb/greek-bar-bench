@@ -68,4 +68,3 @@ If you find this work helpful for your research, please cite our paper using the
 For questions or feedback, please contact:
 
 [Odysseas S. Chlapanis](https://github.com/odychlapanis)
-```
