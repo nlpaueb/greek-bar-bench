@@ -1,0 +1,1 @@
+The prompts are given in txt format, in both English (en) and Greek (el) languages. Either can be used (but the output will be in Greek by default).
