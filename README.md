@@ -1,4 +1,4 @@
-# ⚖️ GreekBarBench 🧑‍🎓👩‍⚖️🇬🇷
+# ⚖️ GreekBarBench 🇬🇷🏛️👩‍⚖️
 
 This repository contains the code, prompts, and data associated with the research presented in the paper:
 
