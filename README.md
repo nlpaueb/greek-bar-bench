@@ -1,1 +1,1 @@
-# greek-bar-bench
+# Greek Bar Bench
